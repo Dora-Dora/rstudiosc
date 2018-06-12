@@ -1,0 +1,14 @@
+Name: Set current directory
+Description: Set the working directory to be the current file's directory.
+Binding: setCurDir
+Interactive: false
+
+Name: Print current directory
+Description: Print the current file's directory.
+Binding: getCurDir
+Interactive: false
+
+Name: Insert a separating line
+Description: Insert a # ---- line at the cursor.
+Binding: insertComLine
+Interactive: false
